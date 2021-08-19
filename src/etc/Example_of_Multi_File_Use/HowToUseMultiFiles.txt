@@ -1,0 +1,2 @@
+https://allround-maker.tistory.com/3
+https://stackoverflow.com/questions/21268483/main-cpp-text0x5f-undefined-reference-to
